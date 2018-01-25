@@ -23,8 +23,11 @@
       "CONFIG_DB": {
         "db": 4
       },
-      "TRANSPORT_DB": {
+      "TRANSPORT_CONFIG_DB": {
         "db": 7
+      },
+      "TRANSPORT_STATE_DB": {
+        "db": 8
       }
     }
   }
